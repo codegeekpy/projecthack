@@ -16,14 +16,14 @@
     {
         "text": "Excellent téléphone, rapide et élégant. Je l'adore.",
         "cleaned": "excellent phone rapid et want we adore",
-        "language": "unknown",
+        "language": "fr",
         "sentiment": "positive",
         "category": "general"
     },
     {
         "text": "Das Display ist nicht hell genug bei Sonnenlicht.",
         "cleaned": "was display is night hell genus be sonnenlicht",
-        "language": "en",
+        "language": "nl",
         "sentiment": "neutral",
         "category": "general"
     },
