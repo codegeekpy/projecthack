@@ -1,0 +1,51 @@
+[
+    {
+        "text": "The phone's battery life is amazing. Totally worth the price!",
+        "cleaned": "the phones battery life is amazing totally worth the price",
+        "language": "en",
+        "sentiment": "positive",
+        "category": "price"
+    },
+    {
+        "text": "La cámara del móvil es decepcionante, esperaba más calidad.",
+        "cleaned": "la cara del evil es decepcionante esperanza ms alidade",
+        "language": "es",
+        "sentiment": "negative",
+        "category": "general"
+    },
+    {
+        "text": "Excellent téléphone, rapide et élégant. Je l'adore.",
+        "cleaned": "excellent phone rapid et want we adore",
+        "language": "unknown",
+        "sentiment": "positive",
+        "category": "general"
+    },
+    {
+        "text": "Das Display ist nicht hell genug bei Sonnenlicht.",
+        "cleaned": "was display is night hell genus be sonnenlicht",
+        "language": "en",
+        "sentiment": "neutral",
+        "category": "general"
+    },
+    {
+        "text": "फोन की परफॉर्मेंस बहुत अच्छी है लेकिन बैटरी जल्दी खत्म हो जाती है।",
+        "cleaned": "",
+        "language": "unknown",
+        "sentiment": "neutral",
+        "category": "general"
+    },
+    {
+        "text": "الهاتف جيد ولكن السعر مرتفع مقارنة بالمواصفات.",
+        "cleaned": "",
+        "language": "unknown",
+        "sentiment": "neutral",
+        "category": "general"
+    },
+    {
+        "text": "手机的外观很好看，但系统有点卡顿。",
+        "cleaned": "",
+        "language": "unknown",
+        "sentiment": "neutral",
+        "category": "general"
+    }
+]
